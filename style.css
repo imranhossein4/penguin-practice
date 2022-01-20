@@ -1,6 +1,33 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 .top-header{
     background-color: #FFFBF0;
+    padding-bottom: 100px;
 }
 .menu ul li{
     font-weight: bold;
 }
+.btn{
+    background-color: #A4BC46;
+    color: #FFFBF0;
+    font-size: small;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.heading-1{
+    color: #FABE4C;
+    font-size: 60px;
+}
+.heading-2{
+    font-size: 60px;
+}
+.top-banner-left{
+    padding-top: 110px;
+    padding-left: 25px;
+}
+
+
