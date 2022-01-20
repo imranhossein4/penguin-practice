@@ -25,6 +25,10 @@ h1{
 .heading-2{
     font-size: 60px;
 }
+.sec-heading{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
 .top-banner-left{
     padding-top: 110px;
     padding-left: 25px;
@@ -34,4 +38,17 @@ h1{
     width: 100%;
     border-radius: 15px;
 }
-
+.footer-card h2{
+    color: #FABE4C;
+}
+.button-css{
+    position: relative;
+    top: 5px;
+    left: 0;
+}
+.shopping-img{
+    width: 98%;
+    position: relative;
+    top: 100px;
+    left: 10px
+}
